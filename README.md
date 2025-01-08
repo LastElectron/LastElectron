@@ -6,6 +6,8 @@
 
 💬 "Logical jugaad is innovation."
 
+✨ Fueled by Shiny Object Syndrome, but always back to my goals.
+
 <!---
 LastElectron/LastElectron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
